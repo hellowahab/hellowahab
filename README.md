@@ -2,7 +2,8 @@
 
 👨‍💻 Wahab Hussain
 Principal Software Developer | Full Stack Developer | Aspiring AI Innovator
-Welcome to my GitHub profile! I am Wahab Hussain, a seasoned software developer with over 19 years of professional experience specializing in .NET, Angular, Microservices, and AWS. My journey in software development reflects a continuous drive to solve challenging problems and deliver impactful solutions.
+Welcome to my GitHub profile! I am Wahab Hussain, a seasoned software developer with over 19 years of professional experience specializing in .NET, Angular, Microservices, and AWS. 
+My journey in software development reflects a continuous drive to solve challenging problems and deliver impactful solutions.
 
 🌟 About Me
 Role: Principal Software Developer at Think Digitally
